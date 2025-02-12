@@ -1,8 +1,7 @@
-class Bala
+class Bala 
 {
-public static void main(String[] args)
-{
-System.out.println("Hello Devops Engineer.");
-System.out.println("Hello Balachandra");
-}
+	public static void main(String[] args) 
+	{
+		System.out.println("Hello World!");
+	}
 }
